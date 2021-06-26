@@ -1,3 +1,22 @@
+.contenedor{
+  margin: 0px;
+  padding: 100px;
+  list-style: none;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.fila{
+  position: relative;
+  margin: auto;
+  width: 100%;
+  height: auto;
+  clear: both;
+  display: table;
+}
+
+
+
 
 .small-logo{
 
@@ -11,6 +30,8 @@
 
 .carousel inner{
   border-radius: 40px;
+  margin-left: 0%;
+  margin-right: 0%;
 
 }
 
@@ -29,6 +50,8 @@ a {
 #demo{
   box-shadow: 5px 5px 10px #f3eeed;
   border-radius: 40px;
+  margin-left: 0%;
+  margin-right: 0%;
 }
 
 .btn :hover:after{
@@ -39,3 +62,18 @@ a {
 .servicios{
   text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
