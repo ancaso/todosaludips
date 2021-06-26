@@ -1,0 +1,41 @@
+
+.small-logo{
+
+ box-shadow: 2px 2px 5px #f3eeed;
+}
+
+.small-logo :hover{
+
+  background-position: 15%;
+}
+
+.carousel inner{
+  border-radius: 40px;
+
+}
+
+#barra_nav{
+  box-shadow: 5px 5px 10px #f3eeed;
+  border-radius: 40px;
+}
+
+a {
+  
+    color: #eaeff5;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+#demo{
+  box-shadow: 5px 5px 10px #f3eeed;
+  border-radius: 40px;
+}
+
+.btn :hover:after{
+  background-color: yellow;
+ 
+}
+
+.servicios{
+  text-align: center;
+}
