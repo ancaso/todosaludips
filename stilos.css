@@ -54,12 +54,21 @@ a {
   margin-right: 0%;
 }
 
-.btn :hover:after{
-  background-color: yellow;
+.btn, botonera{
+  
+ width: 200px;
+ border-color: chartreuse;
+ background-color: rgb(5, 172, 149);
  
 }
 
-.servicios{
+.btn, botonera:hover{
+
+  border-radius: 20%;
+  background-color:#CB4335;
+ 
+}
+ .servicios{
   text-align: center;
 }
 
