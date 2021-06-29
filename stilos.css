@@ -72,6 +72,27 @@ a {
   text-align: center;
 }
 
+/* ordeamos el container de las secciones */
+
+.bordador{
+
+  border-color: rgb(4, 39, 4);
+  border-style: solid 1%;
+  border-radius: 5%;
+  box-shadow: 5px 5px 10px #f7320a;
+  margin-bottom: 8px;
+  margin-top: -10px;
+}
+/* CAMBIAMOS EL TAMAÑO DE LA PRIMERA LETRA */
+
+#poliicas-calidad::first-letter{
+font-size: 80PX;
+color: #CB4335;
+font-family: 'Times New Roman', Times, serif;
+border-radius: 40%;
+border-color: yellow;
+
+}
 
 
 
