@@ -80,24 +80,41 @@ a {
   border-style: solid 1%;
   border-radius: 5%;
   box-shadow: 5px 5px 10px #f7320a;
-  margin-bottom: 8px;
+  margin-bottom: 50px;
   margin-top: -10px;
 }
 /* CAMBIAMOS EL TAMAÑO DE LA PRIMERA LETRA */
 
 #poliicas-calidad::first-letter{
-font-size: 80PX;
+font-size: 20PX;
 color: #CB4335;
 font-family: 'Times New Roman', Times, serif;
 border-radius: 40%;
 border-color: yellow;
+text-align: justify;
 
 }
 
+/* nuevos estilos */
 
+[class*="col-"]{
+  float: left;/*  */
+  padding: 20px;
+  /* border:1px solid rgb(137, 57, 148); */
+  padding: 10px;
+  
+}  
 
-
-
+#logo-original{
+transform:rotate(35deg);
+-ms-transform:rotate(35deg); /* IE 9 */
+-webkit-transform:rotate(35deg); /* Opera, Chrome, and Safari */
+width: 300px;
+height: 300px;
+box-shadow: 5px 5px 10px #35220b;
+margin-top: 5%;
+margin-left: 10%;
+}
 
 
 
