@@ -29,7 +29,6 @@
 }
 
 .carousel inner{
-  border-radius: 40px;
   margin-left: 0%;
   margin-right: 0%;
 
@@ -127,6 +126,10 @@ margin-left: 10%;
 
 
 
+}
+
+#reloj{
+border-radius: 100px;
 }
 
 #reloj:hover{
